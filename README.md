@@ -116,8 +116,11 @@ Update database credentials in the configuration file
 
 ## Author
 
-Hoan Duy | Information technology engineer
+Hoan Duy | Information Technology Engineer
 
 GitHub: https://github.com/DuyHoan23
+## License
+
+MIT License
 
 Email: hoan3798@gmail.com
