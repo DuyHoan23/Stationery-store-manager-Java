@@ -101,7 +101,7 @@ Each DAO is responsible for handling **CRUD operations** and database interactio
 
 ```bash
 1. Clone the repository:
-git clone https://github.com/your-username/stationery-store-java.git
+git clone https://github.com/DuyHoan23/Stationery-store-manager-Java.git
 2. Import the project into:
 
 IntelliJ IDEA / Eclipse / NetBeans
@@ -118,6 +118,6 @@ Update database credentials in the configuration file
 
 Hoan Duy | Information technology engineer
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/DuyHoan23
 
 Email: hoan3798@gmail.com
