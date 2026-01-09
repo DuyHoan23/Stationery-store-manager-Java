@@ -113,14 +113,13 @@ Update database credentials in the configuration file
 4. Run the main application class
 
 ```
-
 ## Author
-
 Hoan Duy | Information Technology Engineer
 
 GitHub: https://github.com/DuyHoan23
+
+Email: hoan3798@gmail.com
+
 ## License
 
 MIT License
-
-Email: hoan3798@gmail.com
